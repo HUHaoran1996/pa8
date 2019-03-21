@@ -1,0 +1,26 @@
+/* Empty. Add your own CSS if you like */
+.col{
+  background-color: #F9FAFB;
+  padding: 5px;
+  border: 1px solid #ddd;
+  border-radius: 2px;
+  
+}
+.col1{
+background-color: red;
+  padding: 5px;
+  border: 1px solid #ddd;
+  border-radius: 2px;
+}
+.col2{
+	background-color: yellow;
+  padding: 5px;
+  border: 1px solid #ddd;
+  border-radius: 2px;
+}
+.col3{
+	background-color: green;
+  padding: 5px;
+  border: 1px solid #ddd;
+  border-radius: 2px;
+}

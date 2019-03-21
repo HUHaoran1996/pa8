@@ -1,0 +1,39 @@
+{
+	"code": "1",
+	"data": {
+		
+		"parkinglot": [{
+			"id": "1",
+			"name":"aa",		
+			"img": "http://img5.mtime.cn/mg/2017/07/03/145323.77130730.jpg",
+			"address": "Villejuif"
+		}, {
+			"id": "1",
+			"name":"aa",		
+			"img": "http://img5.mtime.cn/mg/2017/07/03/145323.77130730.jpg",
+			"address": "Villejuif"
+		}, {
+			"id": "1",
+			"name":"aa",		
+			"img": "http://img5.mtime.cn/mg/2017/07/03/145323.77130730.jpg",
+			"address": "Villejuif"
+		}, {
+			"id": "1",
+			"name":"aa",		
+			"img": "http://img5.mtime.cn/mg/2017/07/03/145323.77130730.jpg",
+			"address": "Villejuif"
+		}, {
+			"id": "1",
+			"name":"aa",		
+			"img": "http://img5.mtime.cn/mg/2017/07/03/145323.77130730.jpg",
+			"address": "Villejuif"
+		}, {
+			"id": "1",
+			"name":"aa",		
+			"img": "http://img5.mtime.cn/mg/2017/07/03/145323.77130730.jpg",
+			"address": "Villejuif"
+		}]
+	},
+	"msg": "成功",
+	"showMsg": ""
+}
